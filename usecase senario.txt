@@ -1,0 +1,83 @@
+Login:
+
+Scenario 1 - Successful Login:
+
+User enters their username and password.
+System verifies the credentials and grants access.
+User is redirected to the home page.
+
+Scenario 2 - Invalid Credentials:
+
+User enters incorrect username or password.
+System displays an error message.
+User retries or chooses the password recovery option.
+
+Add Item:
+
+Scenario 1 - Adding a New Item:
+Seller logs into their account.
+Seller navigates to the "Add Item" section.
+Seller provides item details (name, description, price, etc.).
+System validates and adds the item to the inventory.
+
+Add Category:
+
+Scenario 1 - Creating a New Category:
+Admin logs into their account.
+Admin navigates to the "Add Category" section.
+Admin enters category details (name, description).
+System validates and adds the category.
+Manage Item:
+
+Scenario 1 - Updating Item Information:
+Seller logs into their account.
+Seller navigates to the "Manage Item" section.
+Seller selects an item to edit and updates the details.
+System validates and saves the changes.
+
+Manage Order:
+
+Scenario 1 - Processing an Order:
+Seller logs into their account.
+Seller navigates to the "Manage Order" section.
+Seller views pending orders, selects one, and updates the status (shipped, delivered, etc.).
+System updates the order status and notifies the buyer.
+
+Registration:
+
+Scenario 1 - New User Registration:
+User accesses the registration page.
+User provides required information (name, email, password).
+System validates the information and creates a new user account.
+
+View Item:
+
+Scenario 1 - Browsing Items:
+User logs into their account.
+User navigates to the "View Item" section.
+User searches or browses through available items.
+User clicks on an item to view details.
+
+Make Order:
+
+Scenario 1 - Placing an Order:
+User selects desired items.
+User adds items to the shopping cart.
+User proceeds to checkout, providing shipping details.
+System confirms the order and notifies the user.
+
+Make Payment:
+
+Scenario 1 - Completing Payment:
+User reviews the order summary.
+User selects a payment method (credit card, PayPal, etc.).
+User enters payment details.
+System processes the payment and confirms the order.
+
+Change Password:
+
+Scenario 1 - Changing Password:
+User logs into their account.
+User navigates to the "Change Password" section.
+User enters the current password and sets a new one.
+System validates and updates the password.
